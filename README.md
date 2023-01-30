@@ -11,13 +11,14 @@
 
 ### Minecraft
 
-##### データパック
+> データパック
 
-##### MOD
+> MOD
 
-##### プラグイン
+> プラグイン
 
-今のところなし
+<br>
+<br>
 
 <details>
   <summary>GitHubステータス</summary>
