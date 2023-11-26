@@ -5,9 +5,6 @@
 <a href="https://github.com/ykundesu/SuperNewRoles">
     <img align="center" alt="Readme Card" src="https://github-readme-stats.vercel.app/api/pin/?username=ykundesu&repo=SuperNewRoles&show_owner=true" />
 </a>
-<a href="https://github.com/UKON256/UltimateRoleCreator">
-    <img align="center" alt="Readme Card" src="https://github-readme-stats.vercel.app/api/pin/?username=UKON256&repo=UltimateRoleCreator&show_owner=true" />
-</a>
 
 ### Minecraft
 
